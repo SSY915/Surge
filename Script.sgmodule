@@ -1,4 +1,5 @@
 #!name=Script
+#!desc=该模块为脚本合集,用于去除广告 + 解锁Vip.
 #!system=ios
 [General]
 # > 优酷 去广告
