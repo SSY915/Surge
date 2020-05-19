@@ -1,4 +1,5 @@
-#!name=Cookie获取
+#!name=Cookie
+#!desc=该模块适用于Cookie获取
 #!system=ios
 
 [Script]
